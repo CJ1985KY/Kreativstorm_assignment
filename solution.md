@@ -1,0 +1,42 @@
+Step 1: The 9 “S” dimensions (Deloitte–Marzo 9S)
+- Strategy
+- Structure
+- Systems
+- Shared Values
+- Skills
+- Staff
+- Style (Leadership)
+- Stakeholders
+- Surroundings (External context/market environment)
+
+Step 2: Key misalignments at IKEA India (by “S”)
+- Strategy: Expansion bets and store formats leaned on European assumptions, while large-format furniture underperformed by 60–70% vs forecast and apartments had smaller dimensions. Online pilots promised growth but delivered <1.5% conversion due to long delivery windows, unclear assembly guarantees, and inconsistent availability. The “India Market Labs” localization effort was launched but paused after six months, signaling under-resourced strategic localization.
+- Structure: Dual reporting (country vs global functional leaders) created ambiguity and slowed decisions; 39% did not understand the decision-making chain. Role duplication between store planning and global merchandising caused inventory planning friction. Overlapping KPIs (pricing vs promotions without shared revenue ownership) fragmented accountability.
+- Systems: India used a different inventory platform with no automated integration until 2021, slowing supply chain planning and contributing to >12-month delays for Mumbai and Bengaluru store launches. More than 60 SKUs were dropped at launch due to supplier delays/import issues, revealing brittle planning and clearance systems. Heavy internal reporting lacked feedback loops; 41% of store managers felt overwhelmed.
+- Shared Values: “One IKEA Way” was perceived as inflexible locally, clashing with the need for adaptation. Only 32% felt local input was seriously considered by global management, undermining “togetherness” and “lead by example.” Values were seen as too abstract for hires from more hierarchical firms, weakening everyday behavioral alignment.
+- Skills: QA rejection rates jumped to 8.2% with local vendor onboarding (vs 1.4% global), indicating gaps in supplier development and local QA capabilities. Repeated delays in localized training and translation hindered the build-up of skills for Indian market adaptation. Cross-functional skills to run “India Market Labs” were insufficient, leading to a pause.
+- Staff: Middle-management turnover was 24.7% in 18 months, concentrated in operations, HR, and logistics—functions critical for scale-up. Tensions between legacy global hires and local managers created informal silos. Store managers reported overload without clear follow-up, suggesting burnout and role strain.
+- Style (Leadership): Decision rights and escalation paths were unclear; only 39% reported clarity on operational decision-making. Global strategy communications followed European schedules, missing Indian cycles and confusing priorities. Leadership emphasis on HQ KPIs that ignored local variance weakened empowerment and responsiveness.
+- Stakeholders: FDI rules (30% local sourcing) forced restructuring of 25%+ vendor relationships, driving SKU pulls and QA issues. NPS fell from 74 to 59, especially among families/first-time buyers, while analysts labeled India a “slow burn,” heightening investor scrutiny. Global HQ stakeholders imposed KPIs poorly calibrated to Indian conditions, creating misfit incentives.
+- Surroundings: Typical apartment sizes and usage patterns conflicted with European-standard furniture dimensions, shifting sales mix to small accessories and food (45% of purchases). Local logistics constraints extended delivery windows, depressing online conversion. City-level permitting/import clearance variability triggered SKU removals and launch delays.
+
+Step 3: How the two Marzo additions reveal overlooked issues (100–200 words)
+The Stakeholders lens surfaces external and enterprise-level constituencies—regulators, vendors, investors, and global HQ—whose expectations directly reshaped execution in India. The 30% local-sourcing mandate forced rapid vendor restructuring, raising QA rejections to 8.2% and causing >60 SKU withdrawals at launch—issues a classic 7-S view might misattribute solely to “Systems.” Investor and analyst pressure around a “slow burn” market, plus HQ’s non-localized KPIs, created incentive misfit and risk aversion that dampened localization experiments such as India Market Labs.
+
+The Surroundings lens exposes market-context fit: smaller apartments, delivery infrastructure, and clearance timelines that made European-format products and processes underperform. This explains the 60–70% under-forecast for large-format furniture and sub-1.5% online conversion due to long delivery windows and assembly ambiguity. Without these two additions, misalignment would appear as internal execution failure; with them, it becomes clear that external constraints and context–product mismatch were first-order alignment drivers.
+
+Step 4: How misalignment spreads and influence flows in IKEA India (100–200 words)
+Misfit starts at the Surroundings–Strategy interface: apartment sizes and logistics constraints clash with European formats and timelines. That triggers execution strain in Systems (fragmented inventory platforms, import/clearance delays) and Structure (dual reporting, overlapping KPIs), slowing decisions and muddling ownership. Style amplifies the problem: HQ-driven KPIs and EU-timed communications deprioritize local adaptation, signaling that compliance beats learning; Shared Values feel rhetorical as only 32% believe local input is considered.
+
+These frictions erode Skills and Staff: delayed localized training, rising QA rejections, and 24.7% middle-management turnover leave capability gaps in store ops, HR, and logistics. The outcome—SKU pulls, late store openings, long delivery windows—hits Stakeholders: NPS drops to 59, analysts question scalability, and investor scrutiny reinforces HQ caution. This feedback loop further tightens control, curbing local experiments (e.g., pausing India Market Labs) and perpetuating misalignment. In short, context misfit cascades through structure, systems, and culture, then boomerangs via stakeholder pressure to entrench the very behaviors that block alignment.
+
+Step 5: One action per “S” to improve alignment
+- Strategy: Reboot India Market Labs with dedicated cross-functional headcount and a 12-month roadmap to localize top 20 SKUs and service promises (delivery/assembly SLAs).
+- Structure: Establish single-threaded country P&L owners for key categories and unify pricing/promo under one revenue leader with clear escalation paths.
+- Systems: Fully integrate India’s inventory platform with the global system; add ATP (available-to-promise) and assembly-SLA visibility in online and store channels.
+- Shared Values: Translate “One IKEA Way” into India-specific decision rights and guardrails, with explicit flexibility clauses and local exemplars.
+- Skills: Stand up a supplier development and QA academy for local vendors and store teams, with rapid translation/localization of materials.
+- Staff: Launch a retention program for middle managers (role clarity, coaching, workload rebalance) tied to localized KPIs and career paths.
+- Style (Leadership): Implement a monthly India governance forum with clear RACI and publish a 24-hour SLA for decisions affecting store ops and supply.
+- Stakeholders: Create a stakeholder council (regulators, key vendors, delivery partners, consumer reps) to co-design compliance roadmaps and service standards.
+- Surroundings: Build a continuous market-sensing program (apartment measurements, delivery constraints) and prioritize small-format/modular ranges and micro-fulfillment in Tier 1 cities.
