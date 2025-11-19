@@ -3,9 +3,10 @@
 
 > ⚠️ **Warning:** This assignment is most likely a scam. 
 ```
-This company pretends to have a job opening, and sends out an assignment that is a case study task of IKEA India: Organizational alignment challenges.
-This assignment involves an analysis of a Deloitte-Marzo 9S model. This "Deloitte-Marzo 9S" model does not exist.
-There is a 7-S model, but the 9-S model is made up to sell you a training course. 
+This company pretends to have a job opening, and sends out an assignment that is a case study task of IKEA India:
+Organizational alignment challenges. This assignment involves an analysis of a Deloitte-Marzo 9S model. This
+"Deloitte-Marzo 9S" model does not exist. There is a 7-S model, but the 9-S model is made up to sell you a
+training course. 
 
 In the assignment, you get three attempts to list the 9Ss, but it does not matter what you fill out. The answer
 will be scored as wrong and the result will be rejection. Some time later, they will approach you with the offer
